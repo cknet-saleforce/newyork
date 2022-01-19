@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T00:48:40.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dB00KCeSBcqkzinEKfLv" version="16.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-19T01:01:48.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JhQ5bKKQfWvo_7GcSaww" version="16.2.7" type="github" pages="7">
   <diagram id="aYxxSOiBJVlMd4GOSnkr" name="개념 관계">
     <mxGraphModel dx="1925" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="688" y="310" as="sourcePoint" />
             <mxPoint x="758" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sh-slBrgbxmQGN0twg0l-60" value="activity로 quote를 생성한다" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sh-slBrgbxmQGN0twg0l-23">
+          <mxGeometry x="-0.1773" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sh-slBrgbxmQGN0twg0l-24" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=1;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="sh-slBrgbxmQGN0twg0l-1" source="sh-slBrgbxmQGN0twg0l-12" target="sh-slBrgbxmQGN0twg0l-7">
