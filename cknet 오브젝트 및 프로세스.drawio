@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T06:14:13.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="R-JS5-xxOocmySGW-buY" version="16.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-19T07:03:09.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="molzDaJ-vI9fLLie4v54" version="16.2.7" type="github" pages="7">
   <diagram id="aYxxSOiBJVlMd4GOSnkr" name="개념 관계">
-    <mxGraphModel dx="2036" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sh-slBrgbxmQGN0twg0l-0" />
         <mxCell id="sh-slBrgbxmQGN0twg0l-1" parent="sh-slBrgbxmQGN0twg0l-0" />
@@ -235,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5cbUGCSKlCnuMcElfEXs" name="오브젝트">
-    <mxGraphModel dx="1209" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1422" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="Dn2DAhmlWMs6O1-grngA-0" />
         <mxCell id="Dn2DAhmlWMs6O1-grngA-1" parent="Dn2DAhmlWMs6O1-grngA-0" />
@@ -342,7 +342,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ym2Il39naAvWMm5VuG8A" name="조직관리">
-    <mxGraphModel dx="1209" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,7 +419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_GfFmZ0sKLX0XxT15igA" name="거래처관리">
-    <mxGraphModel dx="1209" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="B-DzMtp_BD97XHljh_lf-0" />
         <mxCell id="B-DzMtp_BD97XHljh_lf-1" parent="B-DzMtp_BD97XHljh_lf-0" />
@@ -463,7 +463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gm6KcjMRJgJ2CNg6cL8O" name="고객관리">
-    <mxGraphModel dx="1209" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="iF9Hna5KATilltA8cpjP-0" />
         <mxCell id="iF9Hna5KATilltA8cpjP-1" parent="iF9Hna5KATilltA8cpjP-0" />
@@ -530,7 +530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ln6jHGCNwkoofUEvhMxt" name="수주관리">
-    <mxGraphModel dx="1209" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="frHtZfIkhyBtscWB0X4U-0" />
         <mxCell id="frHtZfIkhyBtscWB0X4U-1" parent="frHtZfIkhyBtscWB0X4U-0" />
@@ -627,7 +627,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QvDQBlES2pUqQ7T1s2va" name="Process Map">
-    <mxGraphModel dx="1209" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8DG85VFKqi_O4E5eqye4-0" />
         <mxCell id="8DG85VFKqi_O4E5eqye4-1" parent="8DG85VFKqi_O4E5eqye4-0" />
@@ -707,7 +707,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8DG85VFKqi_O4E5eqye4-26" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="8DG85VFKqi_O4E5eqye4-1" vertex="1">
-          <mxGeometry x="60" y="810" width="480" height="110" as="geometry" />
+          <mxGeometry x="60" y="810" width="480" height="240" as="geometry" />
         </mxCell>
         <mxCell id="8DG85VFKqi_O4E5eqye4-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;" parent="8DG85VFKqi_O4E5eqye4-1" vertex="1">
           <mxGeometry x="60" y="90" width="220" height="40" as="geometry" />
@@ -726,6 +726,9 @@
         </mxCell>
         <mxCell id="8DG85VFKqi_O4E5eqye4-32" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;기준정보 관리&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="8DG85VFKqi_O4E5eqye4-1" vertex="1">
           <mxGeometry x="105" y="780" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HneMlMfvsa3yv3rZwzFV-0" value="Resource 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8DG85VFKqi_O4E5eqye4-1">
+          <mxGeometry x="90" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8lN7onnuIe1AL27uKhCG-0" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8DG85VFKqi_O4E5eqye4-1" source="8DG85VFKqi_O4E5eqye4-5" target="8DG85VFKqi_O4E5eqye4-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
