@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T08:51:30.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Pnze-ympURib1kIs78_O" version="16.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-19T08:58:00.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zTqyvH4J1pHLV6jkG7pu" version="16.2.7" type="github" pages="8">
   <diagram id="aYxxSOiBJVlMd4GOSnkr" name="개념 관계">
     <mxGraphModel dx="1777" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
         <mxCell id="KY7hcWVkb_oylUFNRITa-2" value="기존 계약 존재?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KY7hcWVkb_oylUFNRITa-3" value="기존 계약 불러오기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+        <mxCell id="KY7hcWVkb_oylUFNRITa-3" value="기존 계약/견적서 &lt;br&gt;불러오기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KY7hcWVkb_oylUFNRITa-4" value="제안할 내용과 비교" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
@@ -854,19 +854,19 @@
           <mxGeometry x="90" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KY7hcWVkb_oylUFNRITa-28" value="&lt;span&gt;각 Product별&lt;/span&gt;&lt;br&gt;&lt;span&gt;가장 마지막 견적 &lt;br&gt;불러오기?&lt;br&gt;&lt;br&gt;Product/ 가격/ 계약기간&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
-          <mxGeometry x="-150" y="290" width="180" height="100" as="geometry" />
+          <mxGeometry x="-120" y="280" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KY7hcWVkb_oylUFNRITa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KY7hcWVkb_oylUFNRITa-1" source="KY7hcWVkb_oylUFNRITa-29" target="KY7hcWVkb_oylUFNRITa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KY7hcWVkb_oylUFNRITa-29" value="Product&lt;br&gt;기준가격 열람 가능" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
-          <mxGeometry x="-170" y="500" width="160" height="80" as="geometry" />
+          <mxGeometry x="-170" y="491" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VFuvFAlaSrYjV7-92XhT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KY7hcWVkb_oylUFNRITa-1" source="VFuvFAlaSrYjV7-92XhT-0" target="KY7hcWVkb_oylUFNRITa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VFuvFAlaSrYjV7-92XhT-0" value="전체 Resource&lt;br&gt;리스트에서 선택 가능" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
-          <mxGeometry x="-180" y="640" width="170" height="80" as="geometry" />
+          <mxGeometry x="-180" y="704" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VFuvFAlaSrYjV7-92XhT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KY7hcWVkb_oylUFNRITa-1" source="VFuvFAlaSrYjV7-92XhT-2">
           <mxGeometry relative="1" as="geometry">
@@ -884,6 +884,34 @@
         </mxCell>
         <mxCell id="VFuvFAlaSrYjV7-92XhT-7" value="자동? 수동?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry x="565" y="610" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VFuvFAlaSrYjV7-92XhT-9" value="&lt;span&gt;계약 종료 날짜에 대한 logic&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="-170" y="600" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VFuvFAlaSrYjV7-92XhT-10" value="&lt;span&gt;계약 종료 날짜에 대한 logic&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="410" y="440" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VFuvFAlaSrYjV7-92XhT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KY7hcWVkb_oylUFNRITa-1" source="VFuvFAlaSrYjV7-92XhT-11" target="KY7hcWVkb_oylUFNRITa-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="330" />
+              <mxPoint x="490" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFuvFAlaSrYjV7-92XhT-11" value="Product&lt;br&gt;기준가격 열람 가능" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="495" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFuvFAlaSrYjV7-92XhT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="KY7hcWVkb_oylUFNRITa-1" source="VFuvFAlaSrYjV7-92XhT-12" target="KY7hcWVkb_oylUFNRITa-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="387" />
+              <mxPoint x="490" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFuvFAlaSrYjV7-92XhT-12" value="전체 Resource&lt;br&gt;리스트에서 선택 가능" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="491" y="367" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
