@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T06:25:54.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="3mPDLaQQgt8m4_AZMdMf" version="16.3.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-24T08:45:47.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QoN559XDjy5BMwXpqZtl" version="16.3.0" type="github" pages="8">
   <diagram id="5cbUGCSKlCnuMcElfEXs" name="오브젝트">
     <mxGraphModel dx="801" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -612,7 +612,7 @@
           <mxGeometry x="80" y="397" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VFuvFAlaSrYjV7-92XhT-6" value="if 실패시?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="KY7hcWVkb_oylUFNRITa-1" vertex="1">
-          <mxGeometry x="550" y="580" width="70" height="40" as="geometry" />
+          <mxGeometry x="536" y="580" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VFuvFAlaSrYjV7-92XhT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="KY7hcWVkb_oylUFNRITa-1" source="VFuvFAlaSrYjV7-92XhT-11" target="KY7hcWVkb_oylUFNRITa-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -655,7 +655,7 @@
           <mxGeometry x="300" y="52" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DUfzWWpAgFExAqKAmbWk-7" value="발송 성공/실패 여부" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
-          <mxGeometry x="445" y="630" width="128" height="40" as="geometry" />
+          <mxGeometry x="434" y="630" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DUfzWWpAgFExAqKAmbWk-8" value="계약완료" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry x="550" y="710" width="120" height="60" as="geometry" />
@@ -704,18 +704,15 @@
         </mxCell>
         <mxCell id="DUfzWWpAgFExAqKAmbWk-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="670" as="sourcePoint" />
-            <mxPoint x="500" y="740" as="targetPoint" />
+            <mxPoint x="497" y="670" as="sourcePoint" />
+            <mxPoint x="497" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DUfzWWpAgFExAqKAmbWk-32" value="Oppty record detail" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry x="-50" y="10" width="120" height="21" as="geometry" />
         </mxCell>
         <mxCell id="DUfzWWpAgFExAqKAmbWk-39" value="Quote detail" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
-          <mxGeometry x="-51" y="327.5" width="120" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="DUfzWWpAgFExAqKAmbWk-40" value="How to deal with Resource?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
-          <mxGeometry x="555" y="230" width="182" height="60" as="geometry" />
+          <mxGeometry x="-51" y="328.5" width="120" height="21" as="geometry" />
         </mxCell>
         <mxCell id="DUfzWWpAgFExAqKAmbWk-41" value="Edit Product/Rsc" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry x="422" y="323.5" width="120" height="21" as="geometry" />
@@ -740,6 +737,33 @@
         </mxCell>
         <mxCell id="DUfzWWpAgFExAqKAmbWk-60" value="Oppty 등록" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
           <mxGeometry x="-51" y="-142" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="752" y="-25" width="290" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-62" value="Resource List view" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="751" y="-46" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-63" value="Resource Detail" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="751" y="-67" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-64" value="New Resource" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="751" y="-88" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-65" value="Resource 등록 및 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="792" y="4" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="751" y="243" width="290" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-67" value="Price Book List view" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="750" y="222" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-68" value="Price Book Detail" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="750" y="201" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DUfzWWpAgFExAqKAmbWk-70" value="Price Book 등록 및 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KY7hcWVkb_oylUFNRITa-1">
+          <mxGeometry x="791" y="272" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
