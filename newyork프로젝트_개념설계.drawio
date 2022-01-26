@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T08:20:07.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="bbFql2WDaPDdWMcRvTOo" version="16.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-26T08:20:47.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="2V1s_Pkzhv4bAmf6n3qC" version="16.3.0" type="github" pages="4">
   <diagram id="7S1_xoAicD4dSWiCNvxB" name="개념설계">
     <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1149,6 +1149,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-676.1800000000001" y="55" as="sourcePoint" />
             <mxPoint x="-676.1800000000001" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLjOuPrUAYPpxEKO5_wr-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.429;exitY=0.875;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF9933;exitPerimeter=0;" edge="1" parent="7ZfzM7J3tI2GsUzfOU1N-1" source="7ZfzM7J3tI2GsUzfOU1N-82" target="7ZfzM7J3tI2GsUzfOU1N-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-799.4308053547559" y="79.32150658727096" as="sourcePoint" />
+            <mxPoint x="-1014" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
